@@ -1,0 +1,9 @@
+mysql-connector-python==8.0.30
+matplotlib==3.5.3
+pydeck==0.7.1
+pandas==1.3.5
+numpy==1.21.6
+rel===0.4.7
+streamlit-ws-localstorage===1.0.6
+websockets===10.3
+streamlit
